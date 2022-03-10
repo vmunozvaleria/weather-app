@@ -1,0 +1,38 @@
+h1 {
+  color: #085ed6;
+}
+
+.search {
+  padding: 20px;
+  text-align: right;
+  position: fixed;
+  top: 73px;
+  left: 650px;
+}
+
+.sun-icon {
+  text-align: center;
+  color: #f7a808;
+  font-size: 30px;
+  transition: all 1400ms ease-in-out;
+}
+.sun-icon:hover {
+  color: rgb(5, 5, 5);
+}
+.rain-icon {
+  color: #767779;
+  font-size: 30px;
+}
+
+.rain-icon:hover {
+  color: rgb(5, 5, 5);
+}
+
+.cloud-icon {
+  color: #085ed6;
+  font-size: 30px;
+}
+
+.cloud-icon:hover {
+  color: rgb(5, 5, 5);
+}
